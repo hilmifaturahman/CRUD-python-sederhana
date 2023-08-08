@@ -50,7 +50,7 @@ def menu_utama():
                 valid_input = True
             except ValueError:
                 print("Maaf pilihan yang anda masukkan salah, silahkan coba lagi")
-        while pilihan_menu > 6 or pilihan_menu < 1:
+        while pilihan_menu > 5 or pilihan_menu < 1:
             try:
                 print("Maaf pilihan yang anda masukkan salah, silahkan coba lagi")
                 pilihan_menu = int(input("Silahkan Masukkan pilihan anda[1-5]:\n"))
