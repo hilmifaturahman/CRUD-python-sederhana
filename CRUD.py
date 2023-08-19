@@ -1,11 +1,3 @@
-"""
-Created by Hilmi Faturahman Akbar
-8 Agustus 2023
-Tugas Soal Unjuk Pelatihan Python
-Create Read Update Delete dengan module CSV
-Program Sederhana dengan mengimplementasikan fungsi Create Read Update Delete
-"""
-
 import os
 import csv
 
